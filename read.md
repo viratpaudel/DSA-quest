@@ -1,4 +1,4 @@
-### 🎮 Idea: **DSA Dungeon — Learn DSA by Playing**
+
 
 A small browser game where **every DSA concept becomes a game mechanic**.
 
