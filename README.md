@@ -18,7 +18,7 @@ Traditional DSA learning often relies on textbooks, lectures, and videos. While 
 
 DSA Quest turns each concept into an **interactive puzzle inside a game world**.
 
-Every action has a purpose, every challenge tests your understanding, and your performance is tracked as you progress.
+Every action has a purpose, every challenge tests your understanding, and your performance is tracked as you progress
 
 # 🧩 How It Works
 
