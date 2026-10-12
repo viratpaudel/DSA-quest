@@ -10,7 +10,7 @@ Instead of simply watching visualizations or reading theory, players **perform D
 
 The goal is simple:
 
-**Learn DSA by actually doing DSA.**
+**Learn DSA by actually doing DSA**
 
 ## 🚀 Why DSA Quest?
 
