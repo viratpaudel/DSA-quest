@@ -1,6 +1,6 @@
 # 🎮 DSA Quest
 
-###   A Game-Based Way to Learn Data Structures & Algorithms 
+###  A Game-Based Way to Learn Data Structures & Algorithms 
 
 > **Stop watching algorithms. Start playing them.**
 
